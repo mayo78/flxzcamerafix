@@ -1,0 +1,12 @@
+{
+	"name": "flxzcamerafix",
+	"url" : "https://github.com/mayo78/flxzcamerafix/",
+	"license": "MIT",
+	"tags": ["game", "openfl", "flash", "neko", "cpp", "android", "ios", "cross", "vscode"],
+	"description": "This applies the ZCameraFix.lua script to an FlxCamera!",
+	"version": "1.0.0",
+	"classPath": "source/",
+	"releasenote": "Initial release, skew doesnt work",
+	"contributors": ["Mayo78", "Raltyro"],
+	"dependencies": {}
+  }
